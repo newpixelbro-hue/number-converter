@@ -1,0 +1,12 @@
+[project]
+name = "number-converter"
+version = "1.0.0"
+description = "Конвертер и калькулятор систем счисления"
+requires-python = ">=3.10"
+dependencies = ["flet>=1.0.0"]
+
+[tool.flet]
+org = "com.vlados"
+product = "Системы счисления"
+company = "Vlados"
+copyright = "Copyright (C) 2026 Vlados"
